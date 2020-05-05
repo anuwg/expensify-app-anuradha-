@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`items  check 1`] = `
+<div>
+  <Link
+    to="/edit/1"
+  >
+    <h3>
+      rent
+    </h3>
+  </Link>
+  <p>
+    0
+     - 
+    1890
+  </p>
+</div>
+`;

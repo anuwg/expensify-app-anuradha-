@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`items present 1`] = `
+<div>
+  <h1>
+    Expense-List
+  </h1>
+  <Item
+    amount={1890}
+    createdAt={0}
+    description=""
+    expenseType="rent"
+    id="1"
+    key="1"
+  />
+  <Item
+    amount={18}
+    createdAt={-432000000}
+    description=""
+    expenseType="travel"
+    id="2"
+    key="2"
+  />
+  <Item
+    amount={180988}
+    createdAt={432000000}
+    description=""
+    expenseType="school-expense"
+    id="3"
+    key="3"
+  />
+</div>
+`;
+
+exports[`items present 2`] = `
+<div>
+  <h1>
+    Expense-List
+  </h1>
+  <p>
+    No items
+  </p>
+</div>
+`;
